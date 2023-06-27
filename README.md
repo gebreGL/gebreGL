@@ -3,7 +3,7 @@
 
 <h2>Sobre mí</h2>
 
--  🎓 Actualmente he cursado el Ciclo Superior de DAM (Desarrollo de Aplicaciones Multiplataforma).
+-  🎓 He cursado el Ciclo Superior de DAM (Desarrollo de Aplicaciones Multiplataforma).
 
 -  💻 Me encanta programar y estoy aprendiendo diferentes lenguajes de programación.
   
