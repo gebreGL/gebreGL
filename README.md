@@ -1,5 +1,5 @@
 <h1 align="center">¡Bienvenido/a a mi perfil de GitHub! 👋</h1>
-<h2>- Soy Gebre, un programador al que le apasiona el mundo de la tecnología y está en constante aprendizaje para mejorar sus habilidades y conocimientos en el área.</h2>
+<h2> Soy Gebre, un programador al que le apasiona el mundo de la tecnología y está en constante aprendizaje para mejorar sus habilidades y conocimientos en el área.</h2>
 
 <h2>Sobre mí</h2>
 
