@@ -15,11 +15,11 @@
   
 <h2>Habilidades</h2>
 
--  💻 Lenguajes de programación: Java, Python, HTML/CSS, Android, SQL.
+-  💬 Lenguajes de programación: Java, Python, HTML/CSS, Android, SQL.
 
--  🧰 Herramientas: Git, PyCharm, Android Studio, IntelliJ, Eclipse, MySQL.
+-  🧰 Herramientas: Git, PyCharm, Android Studio, IntelliJ, Eclipse, MySQL, VS Code.
   
--  🚀 Frameworks: Django, React, Spring Boot.
+-  🚀 Frameworks: Django, React, Spring Boot, RobotFramework.
   
 <h2>Contacto</h2>
 
