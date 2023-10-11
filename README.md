@@ -19,7 +19,7 @@
 
 -  🧰 Herramientas: Git, PyCharm, Android Studio, IntelliJ, Eclipse, MySQL, VS Code.
   
--  🚀 Frameworks: Django, React, Spring Boot, RobotFramework.
+-  🔧 Frameworks: Django, React, Spring Boot, RobotFramework.
   
 <h2>Contacto</h2>
 
